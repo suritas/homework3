@@ -5,6 +5,7 @@ body{
   margin: 1.2em;
   background-size: cover ;
   background-position: center;
+  background-color: #DDDDDD;
   background-image: url(../images/pigeon-background.JPEG);
   background-size: 100%;
 }
@@ -82,7 +83,7 @@ tr:nth-child(even) {
 /* how make backfournd column highlighted when hover row */
 tr:hover {
   background-color:rgb(126,8,32,0.5);
-  transition:.5s ease;
+  transition: 1s ease;
 }
 *{}
 footer{
